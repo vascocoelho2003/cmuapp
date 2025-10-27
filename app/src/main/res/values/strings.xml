@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sabores Locais</string>
+    <string name="profile">Perfil</string>
+    <string name="map">Mapa</string>
+    <string name="erro_criar_imagem_review">Erro a criar ficheiro de imagem</string>
+    <string name="permissao_negada_camara">Permissão de câmara negada</string>
+    <string name="adicionar_review">Adicionar Review</string>
+    <string name="escolher_galeria">Escolher da Galeria</string>
+    <string name="ficheiro_nao_criado">Não foi possível criar ficheiro para a foto</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="imagem_escolhida">Imagem escolhida</string>
+    <string name="avaliacao">Avaliação</string>
+    <string name="comentario">Comentário</string>
+    <string name="review_submetida">Review submetida com sucesso!</string>
+    <string name="submeter_review">Submeter Review</string>
+    <string name="morada">Morada: </string>
+    <string name="ver_review">Ver Reviews</string>
+    <string name="erro_carregar_leaderboard">Erro ao carregar leaderboard: </string>
+    <string name="registo">Registar-se</string>
+    <string name="nao_tem_conta">Ainda não tem conta? Registe-se</string>
+    <string name="a_obter_localizacao">A obter localização...</string>
+    <string name="tentar_novamente">Tentar novamenteo</string>
+    <string name="nao_foi_possivel_obter_localizacao">Não foi possível obter a localização. Verifique permissões e GPS.</string>
+    <string name="ativar_notificacoes">Ativar notificações de proximidade</string>
+    <string name="atualizar_perfil">Atualizar Perfil</string>
+    <string name="minhas_reviews">Minhas Reviews</string>
+    <string name="historico">Histórico de Visitas</string>
+    <string name="a_carregar">A carregar ...</string>
+    <string name="nenhuma_review">Nenhuma review encontrada</string>
+    <string name="imagem_review">Imagem da review</string>
+    <string name="avaliacoes">Avaliações</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="ja_tem_conta">Já tem conta? Faça login</string>
+    <string name="nenhum_visitado">Faça reviews para registar estabelecimentos no seu histórico</string>
+    <string name="docaria">Doçaria</string>
+</resources>
